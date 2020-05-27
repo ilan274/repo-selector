@@ -36,3 +36,9 @@
     transform: rotate(360deg);
   }
 }
+
+h1 {
+  font-family: 'Space Mono';
+  font-size: 72px;
+  color: #c9c9c9;
+}
