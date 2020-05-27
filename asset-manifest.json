@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/repo-selector/static/css/main.0ae9e204.chunk.css",
+    "main.js": "/repo-selector/static/js/main.1a2d6e9c.chunk.js",
+    "main.js.map": "/repo-selector/static/js/main.1a2d6e9c.chunk.js.map",
+    "runtime-main.js": "/repo-selector/static/js/runtime-main.da9a5e74.js",
+    "runtime-main.js.map": "/repo-selector/static/js/runtime-main.da9a5e74.js.map",
+    "static/js/2.80b00e0b.chunk.js": "/repo-selector/static/js/2.80b00e0b.chunk.js",
+    "static/js/2.80b00e0b.chunk.js.map": "/repo-selector/static/js/2.80b00e0b.chunk.js.map",
+    "index.html": "/repo-selector/index.html",
+    "precache-manifest.3cc664668635db99c823ddc644db388f.js": "/repo-selector/precache-manifest.3cc664668635db99c823ddc644db388f.js",
+    "service-worker.js": "/repo-selector/service-worker.js",
+    "static/css/main.0ae9e204.chunk.css.map": "/repo-selector/static/css/main.0ae9e204.chunk.css.map",
+    "static/js/2.80b00e0b.chunk.js.LICENSE.txt": "/repo-selector/static/js/2.80b00e0b.chunk.js.LICENSE.txt",
+    "static/media/repo.png": "/repo-selector/static/media/repo.441bc176.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.da9a5e74.js",
+    "static/js/2.80b00e0b.chunk.js",
+    "static/css/main.0ae9e204.chunk.css",
+    "static/js/main.1a2d6e9c.chunk.js"
+  ]
+}
